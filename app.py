@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-from flask import Flask, render_template, request, redirect, url_for
-=======
 from flask import Flask, render_template, request
 >>>>>>> 8e00a57a29a99e17edd8713522a1f48c40927478
 import os
